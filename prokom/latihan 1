@@ -1,0 +1,16 @@
+#super market departemen store
+
+harga_baju= int(input("masukkan harga baju"))
+
+total_harga = harga_baju
+potongan_harga = 0
+
+if harga_baju > 100.000 :
+    potongan_harga = harga_baju * 10/100
+    total_harga = harga_baju - potongan_harga
+if harga_baju < 100.000 :
+    potongan_harga = 0
+    total_harga = harga_baju
+    
+print ("nilai pembayaran = ", total_harga)
+print ("nilai potongan harga = ", potongan_harga)

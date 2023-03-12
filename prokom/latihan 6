@@ -1,0 +1,9 @@
+x = int(input("bilangan faktorial yang dicari = "))
+
+y=1
+
+while x !=0 : #titik hentinya ketika x=0
+    y = y*x
+    x = x-1
+
+print ("milai faktorial anda = ", y)

@@ -1,0 +1,16 @@
+print ("membuat pangkat x ")
+
+#masukkan cara input
+x = int(input("masukkan nilai variabel anda= "))
+n = int(input("masukkan nilai pangkat= "))
+
+#proses
+y=1
+i=0
+
+while n >= 1 :
+    y = y*x
+    n = n-1
+    i = i+1
+
+    print("nilai pangkat ke ",i, "adalah = ", y)
