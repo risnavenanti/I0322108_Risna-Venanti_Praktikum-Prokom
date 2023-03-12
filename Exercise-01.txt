@@ -1,0 +1,11 @@
+Nama = "Risna Venanti"
+NIM = "I0322108"
+Kampung_Halaman = "Dukuh Waruk, Desa Karangawen, Kabupaten Demak"
+Visualisasi = "Waruk merupakan dukuh yang dikelilingi sawah dan pabrik. Oleh karena itu, sebagian besar masyarakatnya berprofesi sebagai petani dan pegawai swasta di pabrik-pabrik tersebut. Dukuh Waruk sudah tidak terlalu asri yang diakibatkan oleh pembangunan pabrik di sekelilingnya. Selain itu, penggunaan sawah atau lahan untuk didirikan rumah, sudah marak dilakukan. "
+Harapan = "Saya berharap dapat memaksimalkan ilmu yang saya terima, mempraktikkannya untuk menemukan keahlian(hardskill dan softskill), dan mengasah atau mengevaluasi kembali hardskill dan softskill yang berguna di dunia kerja"
+
+print (Nama)
+print (NIM)
+print (Kampung_Halaman)
+print (Visualisasi)
+print (Harapan)
